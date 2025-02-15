@@ -1,7 +1,7 @@
 
 # Shock Wave Effect
 
-View ( <a href='https://text-grid-shader.onrender.com/' >Live</a> )
+View ( <a target="_blank" href='https://shock-wave.onrender.com/' >Live</a> )
 
 This project showcases a visually stunning shock wave effect, designed to enhance user interaction through smooth animations and transitions. A captivating Grid Shader Effect that delivers an immersive and interactive experience with fluid animations and dynamic visuals.
 
